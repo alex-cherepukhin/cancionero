@@ -1,20 +1,576 @@
 ﻿[
   {
     "id": "1",
+    "title": "A Ti sea la Gloria",
+    "text": "No existen más motivos, Señor, venimos hoy rendidos a Ti; la única razón de nuestra adoración hoy eres Tú. Elevamos olor fragante para Ti, para Ti. Sólo a Ti sea la gloria, Señor, la alabanza y la adoración; toda rodilla se doble ante el único Rey y Dios. que toda lengua confiese que Tú eres el Señor.",
+    "url": "songs/ATiSeaLaGloria_small.html"
+  },
+  {
+    "id": "2",
     "title": "Abre mis ojos, oh Cristo",
     "text": "Abre mis ojos, oh Cristo, abre mis ojos te pido. Yo quiero verte, yo quiero verte. Contemplar Tu majestad y el resplandor de Tu gloria. Derrama Tu amor y poder, cuando cantamos ¡Santo, Santo! Santo, Santo, Santo, yo quiero verte.",
     "url": "songs/AbreMisOjosOhCristo_small.html"
   },
   {
-    "id": "2",
+    "id": "3",
     "title": "Agnus Dei",
     "text": "Aleluya, aleluya, nuestro Dios, poderoso, es Rey. Aleluya ¡Santo! ¡Santo! Eres Tú Dios, poderoso Rey Digno eres Tú, Cordero de Dios; ¡Eres santo! ¡Santo! Eres Tú Dios poderoso Rey Digno eres Tú, Cordero de Dios; amén.",
     "url": "songs/AgnusDei_small.html"
   },
   {
-    "id": "",
-    "title": "",
-    "text": "",
+    "id": "4",
+    "title": "Al borde de Tu gran Trono",
+    "text": "Al borde de Tu gran Trono Me postraré hoy a Ti; Tú reinas sobre principados Sentado a la diestra de Dios. ¡Exáltate, Oh gran Cordero! Tú vives hoy y vivirás; Corónate con mi alabanza,Tu nombre es el Vencedor.",
     "url": "songs/AlBordeDeTuGranTrono_small.html"
+  },
+  {
+    "id": "5",
+    "title": "Al Dios Todopoderoso",
+    "text": "Al Dios Todopoderoso, a Él alabad, Al creador de cielo y tierra a Él exaltad; Al que vive para siempre, para siempre reinará ¡Al que es digno de toda la gloria, a Él alabad! Alábenle, a una voz proclámenle; Por sus grandes maravillas demos gloria a Él. Alábenle, al poderoso y gran Rey ¡Al que vive para siempre, a Él alábenle!",
+    "url": "songs/AlDiosTodopoderoso_small.html"
+  },
+  {
+    "id": "6",
+    "title": "Ante el Trono Celestial",
+    "text": "Ante el trono celestial Él intercede hoy por mí Gran Sacerdo - te es Jesús Quien por siempre vivirá Y en Sus manos por Su amor mi nombre ya grabado está Y mientras en Su trono esté Nadie de Él me apartará, nadie de Él me apartará Cuando he caído en tentación y al sentir condenación Al ver al cie - lo encontraré al inocente quien murió Y por Su muerte el Salvador ya mi pecado perdonó Pues Dios, el Jus - to, aceptó Su sacrificio hecho por mí, Su sacrificio hecho por mí He aquí el Cordero Redentor, Quién al morir resucitó El inmuta - ble gran Yo Soy, el Rey de gloria y majestad Unido a Él no moriré, pues con Su sangre me compró Mi vida es - con - dida está En Cristo Dios, mi Salvador, en Cristo Dios, mi Salvador",
+    "url": "songs/AnteElTronoCelestial_small.html"
+  },
+  {
+    "id": "7",
+    "title": "Aquí estoy Hillsong",
+    "text": "Tú eres el principio, tuya es la eternidad. Llamaste el mundo a existencia; me acerco a Ti. Moriste por mis fracasos, llevaste mi culpa en la cruz. Cargaste en Tus hombros mi carga; me acerco a Ti. ¿Qué puedo hacer? ¿Qué puedo decir? Te ofrezco mi corazón completamente a Ti. En Tu salvación camino, Tu espíritu vive en mí, declara en Tus promesas; me acerco a Ti. Aquí estoy, con manos alzadas vengo, pues Tú todo lo diste por mí. Aquí estoy, mi alma a Ti entrego ¡Tuyo soy, Señor!",
+    "url": "songs/AquiEstoyHillsong_small.html"
+  },
+  {
+    "id": "8",
+    "title": "Cante al Señor-Jesús, mi Cristo",
+    "text": "Mi Cristo, mi Rey, nadie es como Tú; toda mi vida quiero exaltar las maravillas de Tu amor. Consuelo, refugio, torre de fuerza y poder. Todo mi ser, lo que yo soy nunca cese de adorar. Cante al Señor toda la creación, honra y poder, majestad sean al Rey. Montes caerán y el mar rugirá al sonar de Su nombre. Canto con gozo al mirar Su poder; Por siempre yo te amaré y diré: ¡Incomparables promesas me das, Señor!",
+    "url": "songs/CanteAlSenor_small.html"
+  },
+  {
+    "id": "9",
+    "title": "Castillo Fuerte",
+    "text": "Mi Dios fuego consumidor, con gloria y libertad arde Su llama. Mi Dios, justo y recto juez, reina con bondad y sabiduría. Mis ojos fijaré en Ti. Castillo fuerte es nuestro Dios, Tu nombre mi refugio es. Te reino permanecerá, contigo siempre reinaré. Mi Dios, celoso por su pueblo, incomprensible amor y misericordia. Mi Dios ¡exaltado es! En su trono está, por siempre Él es digno. Para poder confiar en Ti, Señor, yo confiaré en Ti.",
+    "url": "songs/CastilloFuerte_small.html"
+  },
+  {
+    "id": "10",
+    "title": "Cerca de Ti yo quiero estar",
+    "text": "Cerca de Ti yo quiero estar para escuchar Tu voz y aprender de Ti; quiero ser un reflejo de Tu amor, quiero vivir sólo en Tu voluntad. Jesús, eres mi Buen Pastor, Tú conoces mi camino; Jesús, puedo confiar en Ti ¡Oh, mi Dios! Me rindo hoy.",
+    "url": "songs/CercaDeTiYoQuieroEstar_small.html"
+  },
+  {
+    "id": "11",
+    "title": "Ciudad de Dios",
+    "text": "Hay un lugar al que mi alma anhela tanto por llegar; una ciudad donde hay descanso y gozo por la eternidad. Sé que pronto allá estaré, con mis ojos yo veré a Aquel que vino a rescatarme, para llevarme allí con Él. He aquí que la presencia del Señor mora en medio de los hombres que Él salvó; ellos son Su pueblo y Él Su eterno Dios. La ciudad de Dios es lo que anhelo yo. Hay un lugar resplandeciente donde no hay más oscuridad; no existe más un enemigo, se vive en plena libertad. Santa y dulce comunión, sin vergüenza ni temor, pues Su justicia cubre por siempre mi pecado y corrupción. Hay un lugar donde Su gloria satisface el corazón; recibiré la recompensa, me abrazará mi Salvador. Ya no hay llanto ni dolor, no hay más prueba ni aflicción; la muerte es sólo una memoria, recuerdo de la redención.",
+    "url": "songs/CiudadDeDios_small.html"
+  },
+  {
+    "id": "12",
+    "title": "Con brazo fuerte y poderoso",
+    "text": "Con brazo fuerte y poderoso ¡Oh, Dios! nos liberaste del pecado; Y el enemigo que nos persiguió, bajo el mar fue sepultado. De día y de noche en nuestro caminar, Tu mano siempre nos ha guiado; Haremos fiesta para celebrar a nuestro Dios ¡Que sea exaltado! ¡Aleluya, reconocemos Tu grandeza! ¡Aleluya, hacemos fiesta en Tu presencia!",
+    "url": "songs/ConBrazoFuerteYPoderoso_small.html"
+  },
+  {
+    "id": "13",
+    "title": "Considera a Aquel",
+    "text": "Considera a Aquel que siendo igual a Dios se despojó, Considera a Aquel que semejante al hombre descendió. Considera a Aquel que se encarnó y debilidad sufrió, Considera a Aquel que fue tentado en todo y no pecó. Con gran nube de testigos a la meta yo prosigo; por el gozo que hay delante, correré. Soportando el sufrimiento, despojándome de todo mi pecado y todo peso, correré con los ojos en Jesús. Considera a Aquel que hasta lo más profundo se humilló, Considera a Aquel que despreció vergüenza y dolor. Considera a Aquel que el peso del pecado soportó, Considera a Aquel que hasta la cruz la muerte padeció. El Cordero y León, el pecado y la muerte Él venció; El mediador, Eterna Paz, intercede ante el trono celestial. El Autor, Consumador, mi fe preserva con poder, gracia y amor, El Principio y Final, por los siglos de los siglos reinará.",
+    "url": "songs/ConsideraAAquel_small.html"
+  },
+  {
+    "id": "14",
+    "title": "Contempla a Dios",
+    "text": "¿Quién formó las olas al hablar? ¿Quién contó la arena en el mar? Reyes, pueblos, tiemblan a Su voz La creación le rinde adoración Contempla a Dios, en Su trono está, venid y adoradle Contempla al Rey, nadie es como Él, venid y adoradle ¿Quién le dio consejo al Señor? ¿Quién cuestiona lo que Él habló? ¿Quién al sabio Dios puede enseñar? ¿Quién comprende Su gran majestad? ¿Quién sufrió los clavos en dolor? ¿Quién llevó el mal del pecador? Jesucristo, humilde al perecer Ha triunfado y reina con poder ¡Reinarás por siempre! ¡Qué Tú gloria brille hoy!",
+    "url": "songs/ContemplaADios_small.html"
+  },
+  {
+    "id": "15",
+    "title": "Cristo, nuestra gloria",
+    "text": "Si nuestro descanso en el cielo está ¿Por qué temeremos la prueba o el mal? Ten calma y recuerda, si llega el final El viaje se acorta y nos lleva al hogar Nuestra gloria Cristo es. Nuestra esperanza fiel. No busques el gozo en lo terrenal Tampoco esperanza en lo temporal Buscamos un reino y una ciudad Fundada por Cristo y libre de mal Si aumenta la angustia y crece el dolor La gloria esperada es mucho mejor No importa si hay penas o felicidad La luz de su rostro más fuerte será",
+    "url": "songs/CristoNuestraGloria_small.html"
+  },
+  {
+    "id": "16",
+    "title": "Cuán grande es Dios",
+    "text": "El esplendor de un Rey vestido en majestad; la tierra alegre está, la tierra alegre está. Cubierto está de luz; venció la oscuridad y tiembla a Su voz. Cántale ¡Cuán grande es Dios! Y todos lo verán Día a día Él está, los tiempos gobernará; principio y el fin, principio y el fin. La Trinidad en Dios, el Padre, Hijo, Espíritu; Cordero y el León, Cristo sobre todo es, Él es digno de alabar; Y mi ser dirá:",
+    "url": "songs/CuanGrandeEsDios_small.html"
+  },
+  {
+    "id": "17",
+    "title": "Cuán Grande es Él",
+    "text": "Señor mi Dios, al contemplar los cielos, el firmamento y las estrellas mil; Al oír Tu voz en los potentes truenos y ver brillar el sol en su cenit: Mi corazón entona la canción ¡Cuán grande es Él! Cuando recuerdo del amor divino que desde el cielo al Salvador envió; Aquel Jesús que por salvarnos vino y en una cruz sufrió por mí y murió. Cuando el Señor me llame a Su presencia, al dulce hogar, al cielo de esplendor, Le adoraré, cantando la grandeza de Su poder y de Su infinito amor",
+    "url": "songs/CuanGrandeEsEl_small.html"
+  },
+  {
+    "id": "18",
+    "title": "Cuán Hermoso Su nombre es",
+    "text": "Tú fuiste el verbo en el principio, Unigénito de Dios; El misterio de Tu gloria revelado en Tu amor. Cuán hermoso Su nombre es, cuán hermoso Su nombre es; El nombre de Jesús, mi Rey. nada se iguala a Él; no hay otro nombre. Dejaste el cielo por salvarme, me viniste a rescatar; mi transgresión Tú perdonaste, nada nos separará. El nombre de Jesús, mi Rey. Majestuoso Su nombre es, nada se iguala a Él; no hay otro nombre. La muerte venciste, el velo partiste; La tumba vacía ahora está. Los cielos declaran, Tu gloria proclama ¡Resucitaste en majestad! Inigualable, Incomparable, hoy y por siempre reinarás. Tuyo es el reino, Tuya es la gloria, Tuyo el poder y autoridad. Poderoso Su nombre es, poderoso Su nombre es; Incomparable es Él; no hay otro nombre",
+    "url": "songs/CuanHermosoSuNombreEs_small.html"
+  },
+  {
+    "id": "19",
+    "title": "De Gloria en Gloria",
+    "text": "De gloria en gloria te veo, cuánto más te conozco quiero saber más de Ti. Mi Dios, cual buen alfarero, quebrántame, transfórmame; moldéame a tu imagen, Señor. Quiero ser más como Tú, ver la vida como Tú; saturarme de tu Espíritu y reflejar al mundo tu amor.",
+    "url": "songs/DeGloriaEnGloria_small.html"
+  },
+  {
+    "id": "20",
+    "title": "Diga el débil fuerte soy",
+    "text": "¡Hosanna, Él me salvó! Diga el débil ¡Fuerte soy! Diga el pobre ¡Rico soy! Diga el ciego ¡Puedo ver por lo que Tú has hecho en mí! ¡Hosanna, Hosanna! Me salvó, Él me salvó. El Señor es mi pastor.",
+    "url": "songs/DigaElDebilFuerteSoy_small.html"
+  },
+  {
+    "id": "21",
+    "title": "Dios Poderoso",
+    "text": "¿Quién sino el Señor las estrellas creó y su luz limitó? ¿Quién sino el Señor, sol y luna formó, movimiento les dio? ¿Quién sino el Señor hace la lluvia venir, truenos rugir? Tus obras grandes son. Dios Poderoso, Tú gobiernas la creación con Tu Palabra, Señor, te exaltaremos. Dios Poderoso, De Ti canta la creación; llenas todo Tú. Señor, te exaltaremos por siempre y siempre, Oh Dios. ¿Quién sino el Señor ha soñado en el plan para el hombre salvar? ¿Quién sino el Señor limpiará al pecador con Su sangre y amor? ¿Quién sino el Señor puede dar vida y salvar por una cruz? Tus planes grandes son. Todas las cosas vienen de Ti y por Ti ¡Oh, gran Yo Soy! Todo es tuyo y para Ti, Oh, Señor",
+    "url": "songs/DiosPoderoso_small.html"
+  },
+  {
+    "id": "22",
+    "title": "Dulce Refugio",
+    "text": "Dulce refugio en la tormenta Es Jesucristo, el Salvador. Él me alienta y alimenta Con su Palabra y su amor. Vengo a reposar en Él, Él es mi amigo fiel. Una poderosa y fresca unción Llenará mi corazón.",
+    "url": "songs/DulceRefugio_small.html"
+  },
+  {
+    "id": "23",
+    "title": "El amor de Cristo",
+    "text": "Profundo es el Amor de Cristo, más que el infierno y la maldad; Dejó Su trono y Su gloria para traernos hacia Él. Más ancho es el amor de Cristo, que el foso que nos separó; Me alcanzó en mis tinieblas, sólo en Él hay salvación. Más profundo que el mar, más allá del cielo está; Tu amor me bastará. Más fuerte es el amor de Cristo que mi enemigo más feroz, me sostiene en la tormenta, las aguas no me cubrirán. Me guiará el amor de Cristo, en el más hondo valle aquí; me pastoreará por siempre y me guarda junto a Él. Más fuerte que la tempestad, venció el pecado y la maldad; Más dulce es el amor de Cristo mientras más cerca estoy del fin; Disfrutaré Su amor por siempre, ante Su trono estaré. Me llenará el amor de Cristo, al Su rostro contemplar ¡Yo le amaré por siempre, Su alabanza cantaré!",
+    "url": "songs/ElAmorDeCristo_small.html"
+  },
+  {
+    "id": "24",
+    "title": "El credo (Hillsong)",
+    "text": "Mi Dios y Padre eterno Autor de la creación, Poderoso; Tu Espíritu intervino, El verbo se encarnó ¡Cristo Tú salvas! Creo en nuestro Dios el Padre y en su hijo Cristo el Rey, creo en el Espíritu Santo; Dios tres en uno es. Creo que resucitaste, que nos levantarás ¡Creo en el nombre de Jesucristo! Mi juez y mi abogado, sufriste en la cruz; me has perdonado. Bajaste a las tinieblas y en gloria y poder te levantaste. Creo en Ti Jesús, creo que Tú vivo estás; creo que Jesús es el Señor. Creo en la vida eterna, creo en la comunión; Creo que tu pueblo es uno, creo en tu Iglesia, Dios. Creo que resucitaremos y en gloria volverás ¡Creo en el nombre de Jesucristo!",
+    "url": "songs/ElCredoHillsong_small.html"
+  },
+  {
+    "id": "25",
+    "title": "El Dios que adoramos",
+    "text": "El Dios que hizo los cielos y la tierra con el poder de Su palabra, reina con autoridad. El Dios que aún los vientos le obedecen, una palabra es suficiente para los muertos levantar. ¡Nadie es como El, Oh gran Yo Soy! Tú eres el Dios que adoramos, Todopoderoso y Soberano; Grande en misericordia y poder para salvar. quien derrotó la muerte y el pecado ¡Glorioso Redentor y Rey, te adoramos! El Dios que descendió desde Su trono, para llevar sobre sus hombros nuestra culpa y transgresión. Jesús, exaltado sobre todo, Nombre sobre todo nombre ¡Sólo en Él hay salvación! ¡A Él sea la gloria y el poder! ¡Todo es de Él y para Él!",
+    "url": "songs/ElDiosQueAdoramos_small.html"
+  },
+  {
+    "id": "26",
+    "title": "Él me sostendrá",
+    "text": "Si mi fe ha de caer, Él me sostendrá, En la tentación yo sé, No podría estar de pie en la oscuridad pues mi amor muy frágil es, Pues me ama el Salvador, Él se goza en quien salvó, ante Él precioso soy, Sus promesas fieles son, mi alma guardará. Alto precio Él pagó, Él sufrió por mí y murió, La justicia Él cumplió, Vida eterna tengo en Él, hasta que Le pueda ver ¡Él regresará!",
+    "url": "songs/ElMeSostendra_small.html"
+  },
+  {
+    "id": "27",
+    "title": "En aquella Cruz",
+    "text": "El Cordero que sufrió traicionado fue, el peso de nuestra maldad fue puesto sobre Él. En silencio soportó dolor y humillación; Obediente al Padre fue, la cruz por mí cargó. En aquella cruz me salvaste, derramaste allí Tu amor; Mi alma cantará Aleluya, gloria y honra a Ti, Señor. Unigénito de Dios viniste a redimir y perdonar a todo aquel que se acerca a Ti. Él pagó por mí, su perdón me dio Por la sangre que derramó en la cruz. El pecado ya no me puede atar, Libre soy en Él, libre en verdad. A la muerte él venció, la tumba abierta está ¡Aleluya al Salvador! ¡Jesús resucitó!",
+    "url": "songs/EnAquellaCruz_small.html"
+  },
+  {
+    "id": "28",
+    "title": "En el monte Calvario",
+    "text": "En el Monte Calvario se vio una cruz, emblema de afrenta y dolor; Y yo quiero esa cruz do murió mi Jesús por salvar al más vil pecador. ¡Oh, yo siempre amaré esa cruz! En sus triunfos mi gloria será. Y algún día, en vez de una cruz, mi corona Jesús me dará. Aunque el mundo desprecie la cruz de Jesús, para mí tiene suma atracción; Porque en ella llevó el Cordero de Dios, mi pecado y mi condenación. En la cruz do Su sangre Jesús derramó, hermosura contemplo en visión. Pues en ella el Cordero inmolado murió para darme pureza y perdón. Yo seré siempre fiel a la cruz de Jesús, sus desprecios con Él sufriré. Y algún día feliz con los santos en luz, para siempre Su gloria veré.",
+    "url": "songs/EnElMonteCalvario_small.html"
+  },
+  {
+    "id": "29",
+    "title": "En esto conocemos",
+    "text": "Grande amor, no existe nada bajo el sol que se compare a ti, Señor ¿Quién te puede comprender? Amor que bajo desde el cielo, mi alma Él vino a salvar… En esto conocemos el amor: Que Él dio Su vida por nosotros, por nosotros. Sublime gracia que nos alcanzó; Él dio Su vida por nosotros, por nosotros. Fiel amor, no deja ir mi corazón y mis pecados ya olvidó ¿Quién me puede separar? Fuerte amor, como montes a mi alrededor, rodeándome, seguro estoy ¿Qué me puede conmover? Mi nombre cargó hasta el madero y me amó hasta el final. De tal manera amó Dios al mundo que envió a su Hijo a morir en una cruz; Y a todo aquel que crea en Su nombre, la vida eterna le dará, no morirá.",
+    "url": "songs/EnEstoConocemos_small.html"
+  },
+  {
+    "id": "30",
+    "title": "En Ti confía mi corazón",
+    "text": "En Ti confía mi corazón, En Ti reposa mi alma; Mi ser descansa en Ti, puedo ser feliz. Porque sé que estás obrando Tu perfecta voluntad, En mi vida estás obrando Tu perfecta voluntad.",
+    "url": "songs/EnTiConfiaMiCorazon_small.html"
+  },
+  {
+    "id": "31",
+    "title": "Enséñame tu camino-Purifícame",
+    "text": "Enséñame Tu camino, Señor y andaré en tu luz. Dame un corazón entregado a Ti para honrarte, oh Dios. Purifícame, límpiame, Señor, y líbrame de lo que impida el fluir de tu amor.",
+    "url": "songs/EnsenameTuCamino_small.html"
+  },
+  {
+    "id": "32",
+    "title": "Eres Fiel",
+    "text": "Señor eres fiel y tu misericordia es eterna. Gente de toda lengua y nación, de generación a generación. Te adoramos, Dios ¡Aleluya! ¡Aleluya! Te adoramos, Dios eres Señor. Eres fiel.",
+    "url": "songs/EresFiel_small.html"
+  },
+  {
+    "id": "33",
+    "title": "Es exaltado",
+    "text": "Es exaltado, en lo alto exaltado, es el Rey y le alabaré. Es exaltado, por siempre exaltado, Su nombre alabaré. Cristo es Señor, Su verdad siempre reinará. Cielos y tierra Gozarán de Su santidad;",
+    "url": "songs/EsExaltado_small.html"
+  },
+  {
+    "id": "34",
+    "title": "Este es mi deseo",
+    "text": "Este es mi deseo: Honrarte a Ti; con todo mi ser te adoro a Ti. Con todas mis fuerzas te alabaré, mi adoración eres Tú. Hoy te rindo mi ser, te doy mi corazón, yo vivo para Ti. En cada palpitar, mientras haya aliento en mi, Dios, haz tu obra en mí.",
+    "url": "songs/EsteEsMiDeseo_small.html"
+  },
+  {
+    "id": "35",
+    "title": "Gloria in excelsis Deo",
+    "text": "",
+    "url": "songs/GloriaInExcelsisDeo_small.html"
+  },
+  {
+    "id": "36",
+    "title": "Gracia sin fin",
+    "text": "",
+    "url": "songs/GraciaSinFin_small.html"
+  },
+  {
+    "id": "37",
+    "title": "Gracia Sublime es",
+    "text": "",
+    "url": "songs/GraciaSublimeEs_small.html"
+  },
+  {
+    "id": "38",
+    "title": "Habla, Oh Dios",
+    "text": "",
+    "url": "songs/HablaOhDios_small.html"
+  },
+  {
+    "id": "39",
+    "title": "Hay libertad",
+    "text": "",
+    "url": "songs/HayLibertad_small.html"
+  },
+  {
+    "id": "40",
+    "title": "Jesucristo Basta",
+    "text": "",
+    "url": "songs/JesucristoBasta_small.html"
+  },
+  {
+    "id": "41",
+    "title": "Jesucristo, el gran Yo Soy",
+    "text": "",
+    "url": "songs/JesucristoElGranYoSoy_small.html"
+  },
+  {
+    "id": "42",
+    "title": "La Bondad de Dios",
+    "text": "",
+    "url": "songs/LaBondadDeDios_small.html"
+  },
+  {
+    "id": "43",
+    "title": "Mas el Dios de toda Gracia",
+    "text": "",
+    "url": "songs/MasElDiosDeTodaGracia_small.html"
+  },
+  {
+    "id": "44",
+    "title": "Me glorío en Jesucristo",
+    "text": "",
+    "url": "songs/MeGlorioEnJesucristo_small.html"
+  },
+  {
+    "id": "45",
+    "title": "Me rindo a Ti",
+    "text": "",
+    "url": "songs/MeRindoATi_small.html"
+  },
+  {
+    "id": "46",
+    "title": "Mi alma esperara",
+    "text": "",
+    "url": "songs/MiAlmaEsperara_small.html"
+  },
+  {
+    "id": "47",
+    "title": "Mi Dios es Grande",
+    "text": "",
+    "url": "songs/MiDiosEsGrande_small.html"
+  },
+  {
+    "id": "48",
+    "title": "Mi Redentor",
+    "text": "",
+    "url": "songs/MiRedentor_small.html"
+  },
+  {
+    "id": "49",
+    "title": "Mi Roca",
+    "text": "",
+    "url": "songs/MiRoca_small.html"
+  },
+  {
+    "id": "50",
+    "title": "Mi Todo",
+    "text": "",
+    "url": "songs/MiTodo_small.html"
+  },
+  {
+    "id": "51",
+    "title": "Muestra a Cristo",
+    "text": "",
+    "url": "songs/MuestraACristo_small.html"
+  },
+  {
+    "id": "52",
+    "title": "Nada en la tierra",
+    "text": "",
+    "url": "songs/NadaEnLaTierra_small.html"
+  },
+  {
+    "id": "53",
+    "title": "Nada es difícil para Dios",
+    "text": "",
+    "url": "songs/NadaEsDificilParaDios_small.html"
+  },
+  {
+    "id": "54",
+    "title": "No hay otro Nombre",
+    "text": "",
+    "url": "songs/NoHayOtroNombre1_small.html"
+  },
+  {
+    "id": "55",
+    "title": "Perfume a Tus pies",
+    "text": "",
+    "url": "songs/PerfumeATusPies_small.html"
+  },
+  {
+    "id": "56",
+    "title": "Poderoso Poderoso",
+    "text": "",
+    "url": "songs/PoderosoPoderoso_small.html"
+  },
+  {
+    "id": "57",
+    "title": "Pon Tu mirada",
+    "text": "",
+    "url": "songs/PonTuMirada_small.html"
+  },
+  {
+    "id": "58",
+    "title": "Por encima del sol",
+    "text": "",
+    "url": "songs/PorEncimaDelSol_small.html"
+  },
+  {
+    "id": "59",
+    "title": "Por la causa del Señor",
+    "text": "",
+    "url": "songs/PorLaCausaDelSenor_small.html"
+  },
+  {
+    "id": "60",
+    "title": "Por todo Tu amor",
+    "text": "",
+    "url": "songs/PorTodoTuAmor_small.html"
+  },
+  {
+    "id": "61",
+    "title": "Porque Él vive",
+    "text": "",
+    "url": "songs/PorqueElVive_small.html"
+  },
+  {
+    "id": "62",
+    "title": "Precioso Jesús",
+    "text": "",
+    "url": "songs/PreciosoJesus_small.html"
+  },
+  {
+    "id": "63",
+    "title": "Príncipe de Paz",
+    "text": "",
+    "url": "songs/PrincipeDePaz_small.html"
+  },
+  {
+    "id": "64",
+    "title": "Promesas",
+    "text": "",
+    "url": "songs/Promesas_small.html"
+  },
+  {
+    "id": "65",
+    "title": "Qué dulce es estar en Tu presencia",
+    "text": "",
+    "url": "songs/QueDulceEsEstarEnTuPresencia_small.html"
+  },
+  {
+    "id": "66",
+    "title": "Queremos darte gloria",
+    "text": "",
+    "url": "songs/QueremosDarteGloria_small.html"
+  },
+  {
+    "id": "67",
+    "title": "Quién como el Señor",
+    "text": "",
+    "url": "songs/QuienComoElSenor_small.html"
+  },
+  {
+    "id": "68",
+    "title": "Quieres ser salvo",
+    "text": "",
+    "url": "songs/QuieresSerSalvo_small.html"
+  },
+  {
+    "id": "69",
+    "title": "Quiero conocerte",
+    "text": "",
+    "url": "songs/QuieroConocerte_small.html"
+  },
+  {
+    "id": "70",
+    "title": "Recibe Toda la Gloria",
+    "text": "",
+    "url": "songs/RecibeTodaLaGloria_small.html"
+  },
+  {
+    "id": "71",
+    "title": "Revelación",
+    "text": "",
+    "url": "songs/Revelacion_small.html"
+  },
+  {
+    "id": "72",
+    "title": "Rey de reyes",
+    "text": "",
+    "url": "songs/ReyDeReyes_small.html"
+  },
+  {
+    "id": "73",
+    "title": "Roca Eterna (Esperanza de Vida)",
+    "text": "",
+    "url": "songs/RocaEterna_small.html"
+  },
+  {
+    "id": "74",
+    "title": "Salmo 27",
+    "text": "",
+    "url": "songs/Salmo27_small.html"
+  },
+  {
+    "id": "75",
+    "title": "Salmos 150 (Alaba a Dios)",
+    "text": "",
+    "url": "songs/Salmos150_small.html"
+  },
+  {
+    "id": "76",
+    "title": "Santo por siempre",
+    "text": "",
+    "url": "songs/SantoPorSiempre_small.html"
+  },
+  {
+    "id": "77",
+    "title": "Sé Tú mi visión",
+    "text": "",
+    "url": "songs/SeTuMiVision_small.html"
+  },
+  {
+    "id": "78",
+    "title": "Sobre todo poder",
+    "text": "",
+    "url": "songs/SobreTodoPoder_small.html"
+  },
+  {
+    "id": "79",
+    "title": "Sólo Dios puede salvar",
+    "text": "",
+    "url": "songs/SoloDiosPuedeSalvar_small.html"
+  },
+  {
+    "id": "80",
+    "title": "Sólo en Jesús",
+    "text": "",
+    "url": "songs/SoloEnJesus_small.html"
+  },
+  {
+    "id": "81",
+    "title": "Somos el pueblo de Dios",
+    "text": "",
+    "url": "songs/SomosElPuebloDeDios_small.html"
+  },
+  {
+    "id": "82",
+    "title": "Su amor es para siempre",
+    "text": "",
+    "url": "songs/SuAmorEsParaSiempre_small.html"
+  },
+  {
+    "id": "83",
+    "title": "Su Gracia es mayor",
+    "text": "",
+    "url": "songs/SuGraciaEsMayor_small.html"
+  },
+  {
+    "id": "84",
+    "title": "Sublime Gracia (Ya libre soy)",
+    "text": "",
+    "url": "songs/SublimeGracia_small.html"
+  },
+  {
+    "id": "85",
+    "title": "Te amo Señor",
+    "text": "",
+    "url": "songs/TeAmoSenor_small.html"
+  },
+  {
+    "id": "86",
+    "title": "Te doy Gloria",
+    "text": "",
+    "url": "songs/TeDoyGloria_small.html"
+  },
+  {
+    "id": "87",
+    "title": "Temprano yo te buscaré",
+    "text": "",
+    "url": "songs/TempranoYoTeBuscare_small.html"
+  },
+  {
+    "id": "88",
+    "title": "Tú eres Dios",
+    "text": "",
+    "url": "songs/TuEresDios_small.html"
+  },
+  {
+    "id": "89",
+    "title": "Tú eres mi fortaleza",
+    "text": "",
+    "url": "songs/TuEresMiFortaleza_small.html"
+  },
+  {
+    "id": "90",
+    "title": "Tu Gran Nombre",
+    "text": "",
+    "url": "songs/TuGranNombre_small.html"
+  },
+  {
+    "id": "91",
+    "title": "Tu ley está escrita",
+    "text": "",
+    "url": "songs/TuLeyEstaEscrita_small.html"
+  },
+  {
+    "id": "92",
+    "title": "Venid, glorificad a Dios",
+    "text": "",
+    "url": "songs/VenidGlorificadADios_small.html"
+  },
+  {
+    "id": "93",
+    "title": "Ya no soy esclavo",
+    "text": "",
+    "url": "songs/YaNoSoyEsclavo_small.html"
+  },
+  {
+    "id": "94",
+    "title": "Yo me rindo a Ti",
+    "text": "",
+    "url": "songs/YoMeRindoATi_small.html"
+  },
+  {
+    "id": "95",
+    "title": "Yo quiero más de Ti",
+    "text": "",
+    "url": "songs/YoQuieroMasDeTi_small.html"
   }
 ]
+
+
+
+
