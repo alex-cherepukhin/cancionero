@@ -25,6 +25,10 @@ h1 {
     font-size: 2rem;
 }
 
+.chorus {
+    margin-left: 20px;
+}
+
 .alpha-nav {
     position: sticky;
     top: 0;
