@@ -16,6 +16,7 @@
             <h1>Canciones</h1>
         </div>
         <nav class="alpha-nav">
+            <a href="../index.html">Índice</a>
             <input type="text" id="searchBar" placeholder="Texto de búsqueda">
             <button id="searchButton">&nbsp;Buscar&nbsp;</button>
         </nav>
@@ -69,7 +70,7 @@
                 return; // Прерываем выполнение функции
             }
 
-            const results = idx.search(query);
+            const results = idx.search('"'+query+'"'); // Точные совпадения
             console.log("Результаты поиска Lunr:", results); // Отладка: проверяем результаты поиска
 
             const resultContainer = document.getElementById('results');
