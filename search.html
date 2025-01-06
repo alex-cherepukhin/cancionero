@@ -60,8 +60,9 @@
 
         // Функция для выполнения поиска
         function performSearch() {
-            console.log("Функция performSearch вызвана"); // Отладка: проверяем вызов функции
-            const query = document.getElementById('searchBar').value;
+            // console.log("Функция performSearch вызвана"); // Отладка: проверяем вызов функции
+            //const query = document.getElementById('searchBar').value;
+            const query = `"${document.getElementById('searchBar').value}"`; // Оборачиваем запрос в кавычки для точного поиска
             console.log("Запрос:", query); // Отладка: проверяем введенный запрос
 
             if (!idx) {
@@ -70,7 +71,7 @@
                 return; // Прерываем выполнение функции
             }
 
-            const results = idx.search('"'+query+'"'); // Точные совпадения
+            const results = idx.search(query);
             console.log("Результаты поиска Lunr:", results); // Отладка: проверяем результаты поиска
 
             const resultContainer = document.getElementById('results');
