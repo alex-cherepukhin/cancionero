@@ -51,20 +51,20 @@
                 });
             })
             .catch(error => {
-                console.error("Ошибка загрузки songs.json:", error);
+                console.error("Error al cargar songs.json:", error);
             });
 
         function performSearch() {
-            const query = document.getElementById('searchBar').value.trim(); // Получаем запрос и удаляем пробелы по краям
+            const query = document.getElementById('searchBar').value.trim(); // Retrieve the query and remove initial and trailing spaces
 
             if (!idx) {
-                console.error("Индекс Lunr не инициализирован!");
-                document.getElementById('results').innerHTML = '<p>Поиск невозможен, индекс не загружен.</p>';
+                console.error("El índice Lunr no está inicializado!");
+                document.getElementById('results').innerHTML = '<p>No es posible la búsqueda, el índice no está cargado.</p>';
                 return;
             }
 
-            if (!query) { // Проверка на пустой запрос
-                document.getElementById('results').innerHTML = '<p>Введите текст для поиска.</p>';
+            if (!query) { // Checking for an empty query
+                document.getElementById('results').innerHTML = '<p>Introduzca el texto que desea buscar.</p>';
                 return;
             }
 
@@ -81,14 +81,14 @@
             const filteredResults = lunrResults.filter(result => {
                 const song = songsData.find(song => song.id === result.ref);
                 if (song) {
-                    const fullText = song.title + " " + song.text; // Объединяем title и text для проверки
-                    return fullText.toLowerCase().includes(query.toLowerCase()); // Проверка на точное совпадение фразы (регистронезависимо)
+                    const fullText = song.title + " " + song.text; // Combine title and text to check
+                    return fullText.toLowerCase().includes(query.toLowerCase()); // Phrase match check (case-insensitive)
                 }
-                return false; // Если песня не найдена, не включаем в результаты
+                return false; // If the song is not found, do not include in the results
             });
 
             if (filteredResults.length === 0) {
-                resultContainer.innerHTML = '<p>No se encontraron resultados, соответствующие фразе.</p>';
+                resultContainer.innerHTML = '<p>No hay resultados que coincidan con la frase.</p>';
                 return;
             }
 
@@ -102,8 +102,8 @@
                     resultContainer.appendChild(link);
                     resultContainer.appendChild(document.createElement('br'));
                 } else {
-                    console.error("Песня с id " + result.ref + " не найдена в songsData!");
-                    resultContainer.innerHTML += '<p style="color:red;">Ошибка: внутренняя ошибка поиска.</p>';
+                    console.error("Canción con id " + result.ref + " no encontrada en songsData!");
+                    resultContainer.innerHTML += '<p style="color:red;">Error: error de búsqueda interna.</p>';
                 }
             });
         }
